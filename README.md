@@ -1,0 +1,1 @@
+# Parallel-Implementation-of-Artificial-Neural-Networks-for-Hand-written-Recognition-CUDA-
